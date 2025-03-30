@@ -17,13 +17,13 @@
 </p>
 
   📌 Featured Projects  
-📌 **[Smart Home Automation System](https://github.com/Kaviamuthu/Home-Automation)**  
+📌 **Smart Home Automation System**  
 🏡 *IoT-based system to control home appliances remotely*  
 
-📌 **[IoT-Based Battery Management System](https://github.com/Kaviamuthu/IoT-BMS)**  
+📌 **IoT-Based Battery Management System**  
 🔋 *Real-time charge monitoring & fire protection*  
 
-📌 **[Electrocution Prevention System](https://github.com/Kaviamuthu/Electrocution-Prevention)**  
+📌 **Electrocution Prevention System**  
 ⚡ *Prevents electrocution using voltage & current sensing with mutual inductance*  
 
   📊 GitHub Stats  
