@@ -26,12 +26,6 @@
 📌 **Electrocution Prevention System**  
 ⚡ *Prevents electrocution using voltage & current sensing with mutual inductance*  
 
-  📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviamuthu&show_icons=true&theme=tokyonight" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaviamuthu&theme=tokyonight" height="165px" />
-</p>
-
   📫 Connect with Me  
 <p align="left">
   <a href=" LinkedIn: www.linkedin.com/in/kaviamuthu-a-520100256">
