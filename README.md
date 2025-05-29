@@ -12,7 +12,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C%20Programming-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
